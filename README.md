@@ -1,2 +1,2 @@
 # pokemons-list
-Learn to implement RxJava to get pokemon list from Rest API.
+Learn to how implement RxJava to get pokemon list from Rest API.
